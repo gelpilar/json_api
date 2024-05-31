@@ -1,0 +1,2323 @@
+{
+  "elementos": [
+    {
+      "nombre": "Marte",
+      "parrafoPrincial": "Marte es un planeta desértico y frío. Es la mitad del tamaño de la Tierra, y también recibe el nombre de 'planeta rojo'. Es rojo por el hierro oxidado que tiene en el suelo",
+      "parrafoSecundario": "Como la Tierra, Marte tiene estaciones, casquetes polares, volcanes, cañones y clima. Tiene una atmósfera poco densa hecha de dióxido de carbono, nitrógeno y argón. Hay signos de antiguas inundaciones en Marte, pero ahora el agua existe principalmente en su polvo helado y sus nubes delgadas. En algunas laderas marcianas, se han encontrado pruebas de agua líquida salada. Los científicos quieren saber si Marte podría haber tenido seres vivos en el pasado. También quieren saber si Marte podría albergar vida ahora o en el futuro",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-marte.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Un día dura 24,6 horas, un poco más que un día en la Tierra."
+        },
+        {
+          "id": 2,
+          "dato": "Tiene una atmósfera poco densa."
+        },
+        {
+          "id": 3,
+          "dato": "Tiene dos lunas: Fobos y Deimos."
+        },
+        {
+          "id": 4,
+          "dato": "Marte alberga el volcán más grande del sistema solar, llamado Monte Olimpo."
+        },
+        {
+          "id": 5,
+          "dato": "Un año equivale a 687 días en la Tierra, casi el doble que el año terrestre."
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nombre": "Mercurio",
+      "parrafoPrincial": "Mercurio es el planeta más cercano al Sol en nuestro sistema solar. Es un mundo rocoso y desolado, conocido por sus temperaturas extremadamente altas y bajas debido a su falta de atmósfera significativa.",
+      "parrafoSecundario": "Este planeta no tiene una atmósfera densa que pueda retener el calor, por lo que sus temperaturas diurnas pueden superar los 400 grados Celsius, mientras que las nocturnas caen por debajo de los -170 grados Celsius. Mercurio no tiene lunas y su superficie está marcada por cráteres de impacto y llanuras. Su superficie también muestra signos de actividad geológica en el pasado, como fallas y acantilados.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-mercurio.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Un día en Mercurio dura aproximadamente 59 días y 59 minutos terrestres."
+        },
+        {
+          "id": 2,
+          "dato": "es un planeta hace vulnerable a la radiación solar intensa y cambios extremos de temperatura."
+        },
+        {
+          "id": 3,
+          "dato": "Es el planeta más cercano al Sol."
+        },
+        {
+          "id": 4,
+          "dato": "Fue visitado por la misión espacial Mariner 10 de la NASA en la década de 1970 y más recientemente por la sonda MESSENGER en 2011."
+        },
+        {
+          "id": 5,
+          "dato": "Mercurio es un objeto visible a simple vista en el cielo nocturno y al amanecer."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nombre": "Venus",
+      "parrafoPrincial": "Venus es el segundo planeta más cercano al Sol en nuestro sistema solar. Este es un mundo inhóspito y extremadamente cálido debido a su densa atmósfera compuesta principalmente de dióxido de carbono.",
+      "parrafoSecundario": "La superficie de Venus está oculta por gruesas nubes de ácido sulfúrico que generan un efecto invernadero descontrolado. Las temperaturas en la superficie son abrasadoras y pueden superar los 450 grados Celsius, lo que lo convierte en el planeta más caliente del sistema solar. Venus no tiene agua líquida y su presión atmosférica es casi 100 veces la de la Tierra.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-venus.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Venus rota en sentido contrario a la mayoría de los planetas en nuestro sistema solar."
+        },
+        {
+          "id": 2,
+          "dato": "Es conocido como el 'Lucero del Alba' o 'Lucero Vespertino' debido a su brillante apariencia en el cielo."
+        },
+        {
+          "id": 3,
+          "dato": "Fue visitado por múltiples misiones espaciales, incluyendo la sonda soviética Venera y la misión Magallanes de la NASA."
+        },
+        {
+          "id": 4,
+          "dato": "Tiene una superficie activa, que incluye volcanes."
+        },
+        {
+          "id": 5,
+          "dato": "Su atmósfera es densa: atrapa el calor y por eso es tan caluroso."
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nombre": "Tierra",
+      "parrafoPrincial": "La Tierra es el tercer planeta desde el Sol en nuestro sistema solar y es el único planeta conocido que alberga vida.",
+      "parrafoSecundario": "Es un mundo diverso y único con una amplia gama de ecosistemas y características geográficas.La Tierra tiene una atmósfera que contiene oxígeno, lo que permite la vida tal como la conocemos. También es el único planeta donde se ha encontrado agua en estado líquido, un ingrediente clave para la vida. La Tierra experimenta cambios estacionales debido a su inclinación axial, lo que da lugar a diferentes climas en todo el mundo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-tierra.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Tierra es el único planeta conocido en el universo que alberga vida."
+        },
+        {
+          "id": 2,
+          "dato": "El núcleo de la Tierra es tan caliente como la superficie del Sol."
+        },
+        {
+          "id": 3,
+          "dato": "Los océanos de la Tierra cubren aproximadamente el 71% de su superficie."
+        },
+        {
+          "id": 4,
+          "dato": "La Tierra en realidad no es esférica."
+        },
+        {
+          "id": 5,
+          "dato": "La Tierra tiene una Luna natural que influye en las mareas."
+        }
+      ],
+      "id": 4
+    },
+    {
+      "nombre": "Jupiter",
+      "parrafoPrincial": "Júpiter es el quinto planeta desde el Sol y es el planeta más grande en nuestro sistema solar. Es un gigante gaseoso compuesto principalmente de hidrógeno y helio.",
+      "parrafoSecundario": "Júpiter es conocido por su impresionante sistema de anillos y numerosas lunas, incluyendo las cuatro lunas galileanas, descubiertas por Galileo Galilei. La gran mancha roja en la atmósfera de Júpiter es una característica distintiva, que es en realidad una gigantesca tormenta que ha existido durante siglos. El planeta también tiene una intensa radiación y un fuerte campo magnético. Júpiter es un objeto brillante en el cielo nocturno y es visible a simple vista.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-jupiter.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Júpiter tiene un diámetro aproximadamente 11 veces mayor que el de la Tierra."
+        },
+        {
+          "id": 2,
+          "dato": "Su gran mancha roja es una tormenta que ha sido observada durante al menos 350 años."
+        },
+        {
+          "id": 3,
+          "dato": "Júpiter tiene al menos 79 lunas conocidas, como las cuatro lunas galileanas (Ío, Europa, Ganimedes y Calisto)."
+        },
+        {
+          "id": 4,
+          "dato": "Júpiter actúa como un 'limpiador' en el sistema solar, atrayendo asteroides y cometas con su gravedad y evitando que impacten en la Tierra."
+        },
+        {
+          "id": 5,
+          "dato": "Tiene anillos, pero son muy difíciles de ver."
+        }
+      ],
+      "id": 5
+    },
+    {
+      "nombre": "Saturno",
+      "parrafoPrincial": "Saturno es el sexto planeta desde el Sol y es conocido por sus impresionantes anillos, que lo convierten en uno de los objetos más reconocibles en el cielo nocturno.",
+      "parrafoSecundario": "Es un gigante gaseoso compuesto principalmente de hidrógeno y helio, similar a Júpiter. Los anillos de Saturno están formados por innumerables partículas de hielo y roca que varían en tamaño desde pequeños granos de arena hasta varios metros de diámetro. El planeta también tiene una serie de lunas, siendo Titán la más grande y una de las lunas más intrigantes del sistema solar debido a su atmósfera densa y la posibilidad de tener océanos subterráneos de agua líquida.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-saturno.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Saturno tiene un sistema de anillos que está compuesto por miles de anillos individuales"
+        },
+        {
+          "id": 2,
+          "dato": "Titán, la luna más grande de Saturno, y es uno de los objetivos clave para la investigación en busca de vida fuera de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "Galileo Galilei fue el primero en observar los anillos de Saturno a través de un telescopio en el siglo XVII."
+        },
+        {
+          "id": 4,
+          "dato": "Un año en Saturno dura casi tres décadas."
+        },
+        {
+          "id": 5,
+          "dato": "Se registran temperaturas de hasta 212 grados bajo cero."
+        }
+      ],
+      "id": 6
+    },
+    {
+      "nombre": "Urano",
+      "parrafoPrincial": "Urano es el séptimo planeta desde el Sol en nuestro sistema solar. Es único en su rotación, ya que gira de lado, con su eje inclinado casi 90 grados en relación con su órbita, lo que le da una apariencia de 'rodar'.",
+      "parrafoSecundario": "Urano está compuesto de agua, metano y amoniaco sobre un pequeño centro rocos.Este es un mundo frío y distante, compuesto principalmente de hidrógeno y helio, y está rodeado por un sistema de anillos y múltiples lunas. A diferencia de los planetas exteriores como Júpiter y Saturno, Urano no tiene una atmósfera densa ni características notables en su superficie.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-urano.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Urano tiene un color azul verdoso debido a la presencia de metano en su atmósfera, que absorbe la luz roja y refleja la luz azul."
+        },
+        {
+          "id": 2,
+          "dato": "Fue descubierto por el astrónomo alemán William Herschel en 1781."
+        },
+        {
+          "id": 3,
+          "dato": "Es un gigante de hielo el cual está compuesto, en su mayor parte, por hielo fluido sobre un núcleo sólido."
+        },
+        {
+          "id": 4,
+          "dato": "El planeta tiene 27 lunas conocidas, incluyendo Titania, Oberon, Umbriel, Ariel y Miranda."
+        },
+        {
+          "id": 5,
+          "dato": "Urano es uno de los planetas menos explorados del sistema solar. La sonda Voyager 2 es la única misión que ha visitado Urano en 1986."
+        }
+      ],
+      "id": 7
+    },
+    {
+      "nombre": "Neptuno",
+      "parrafoPrincial": "Neptuno es el octavo y último planeta en nuestro sistema solar. Es un gigante gaseoso, similar a Urano, y está compuesto principalmente de hidrógeno y helio.",
+      "parrafoSecundario": "Fue descubierto en 1846 por el matemático y astrónomo alemán Johann Galle, gracias a cálculos basados en predicciones matemáticas.Neptuno es conocido por su color azul intenso debido a la presencia de metano en su atmósfera que absorbe la luz roja. El planeta tiene una serie de anillos tenues y un sistema de lunas, incluyendo Tritón, que es una de las lunas más grandes y una de las pocas lunas retrogradas en el sistema solar.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-neptuno.jpg",
+      "categoria": "planeta",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Neptuno es uno de los planetas más ventosos del sistema solar, con vientos que superan los 2,100 kilómetros por hora."
+        },
+        {
+          "id": 2,
+          "dato": "Tritón, la luna más grande de Neptuno, es inusual ya que órbita en sentido opuesto a la rotación del planeta."
+        },
+        {
+          "id": 3,
+          "dato": "Tiene un sistema de anillos, que son difíciles de observar desde la Tierra."
+        },
+        {
+          "id": 4,
+          "dato": "El planeta fue visitado por la sonda Voyager 2 de la NASA en 1989, proporcionando datos detallados y fotos de Neptuno y su sistema de lunas."
+        },
+        {
+          "id": 5,
+          "dato": "Su recorrido alrededor del Sol es tan largo que tarda 165 años terrestres en completarlo."
+        }
+      ],
+      "id": 8
+    },
+    {
+      "nombre": "Sol",
+      "parrafoPrincial": " El Sol es la estrella central de nuestro sistema solar, compuesta principalmente de hidrógeno y helio, con un diámetro aproximadamente 109 veces el de la Tierra y una masa unas 333,000 veces mayor.",
+      "parrafoSecundario": "A través de la fusión nuclear en su núcleo, genera luz y energía esenciales para la vida en la Tierra. Con una edad estimada de 4.6 mil millones de años, el Sol está en la mitad de su vida y experimenta ciclos de actividad solar, que pueden afectar las comunicaciones y la tecnología en nuestro planeta. Su luz y calor son fundamentales para el clima y la vida en la Tierra, ya que impulsan procesos como la fotosíntesis y el mantenimiento de las temperaturas adecuadas.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-sol.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "El Sol emite sonidos, aunque no podemos escucharlos en el espacio. Los científicos los convierten en sonidos audibles, y estos suenan como un zumbido constante."
+        },
+        {
+          "id": 2,
+          "dato": "A medida que el Sol envejece, eventualmente agotará su hidrógeno y se expandirá para convertirse en una gigante roja antes de finalmente colapsar."
+        },
+        {
+          "id": 3,
+          "dato": "El Sol podría contener un millón trescientos mil planetas del tamaño de la Tierra."
+        },
+        {
+          "id": 4,
+          "dato": "La luz que vemos del Sol no es la que se está generando actualmente. Toma aproximadamente 8 minutos y 20 segundos para que la luz del Sol llegue a la Tierra."
+        },
+        {
+          "id": 5,
+          "dato": "Las erupciones solares, o llamaradas solares, pueden liberar energía equivalente a miles de millones de bombas atómicas."
+        }
+      ],
+      "id": 9
+    },
+    {
+      "nombre": "Sirio",
+      "parrafoPrincial": "Sirio, también conocida como Alfa Canis Majoris, es la estrella más brillante en el cielo nocturno y forma parte de la constelación Canis Major. Es una estrella binaria compuesta por dos estrellas, Sirio A y Sirio B.",
+      "parrafoSecundario": "Sirio A es una estrella de tipo espectral A1V y es mucho más brillante que su compañera Sirio B, que es una enana blanca. La distancia entre Sirio y la Tierra es de aproximadamente 8.6 años luz, lo que la convierte en una de las estrellas más cercanas a nuestro sistema solar. Sirio es conocida desde la antigüedad y ha sido objeto de numerosas observaciones y mitos a lo largo de la historia. Su brillo y prominencia en el cielo nocturno la convierten en un objeto celestial icónico.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-sirio.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La luminosidad de Sirio A es aproximadamente 25 veces la del Sol, lo que contribuye a su brillo notable en el cielo nocturno."
+        },
+        {
+          "id": 2,
+          "dato": "La estrella Sirio B es una enana blanca, es decir que es el remanente de una estrella que agotó su combustible nuclear y colapsó."
+        },
+        {
+          "id": 3,
+          "dato": "Sirio es conocida comúnmente como 'La Estrella del Perro' porque forma parte de la constelación Canis Major, que significa 'Perro Mayor' en latín."
+        },
+        {
+          "id": 4,
+          "dato": "La luz de Sirio viaja desde la estrella hasta la Tierra en unos 8.6 años, lo que significa que estamos viendo la luz que dejó Sirio hace más de ocho años."
+        },
+        {
+          "id": 5,
+          "dato": "Los antiguos egipcios solían usar su aparición matutina antes del amanecer para predecir la crecida anual del río Nilo."
+        }
+      ],
+      "id": 10
+    },
+    {
+      "nombre": "Canopus",
+      "parrafoPrincial": "Canopus es una de las estrellas más brillantes en el cielo nocturno y forma parte de la constelación Carina. Es una estrella gigante de tipo espectral A9II, con una luminosidad extraordinaria.",
+      "parrafoSecundario": " Su brillo se debe a su gran tamaño y a su relativa cercanía a la Tierra en términos astronómicos. La distancia entre Canopus y la Tierra es de aproximadamente 310 años luz, lo que la convierte en una de las estrellas más lejanas visibles a simple vista. Canopus es conocida desde la antigüedad y ha sido utilizada como referencia para la navegación en el hemisferio sur. Su brillo y posición en el cielo austral la hacen una estrella destacada en las culturas de la región.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-canopus.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Canopus es unas 10,000 veces más luminosa que el Sol."
+        },
+        {
+          "id": 2,
+          "dato": "Canopus es invisible desde gran parte del hemisferio norte debido a su ubicación en el cielo austral."
+        },
+        {
+          "id": 3,
+          "dato": "Canopus ha sido mencionada en mitologías de diversas culturas del sur de la Tierra, incluyendo las culturas aborígenes australianas y la griega."
+        },
+        {
+          "id": 4,
+          "dato": "La luz de Canopus que vemos en la Tierra viaja desde la estrella durante siglos."
+        },
+        {
+          "id": 5,
+          "dato": "Es conocida por su rápida velocidad de rotación. Gira sobre su eje mucho más rápido que el Sol."
+        }
+      ],
+      "id": 11
+    },
+    {
+      "nombre": "Arcturus",
+      "parrafoPrincial": "Arcturus es una estrella gigante roja que se encuentra en la constelación de Boötes y es una de las estrellas más brillantes en el cielo nocturno.",
+      "parrafoSecundario": "Es conocida por su apariencia anaranjada y su brillo notorio, lo que la convierte en un punto de referencia celestial fácil de identificar. La distancia entre Arcturus y la Tierra es de aproximadamente 37 años luz, lo que la convierte en una de las estrellas más cercanas a nuestro sistema solar. A pesar de ser una de las estrellas más brillantes en el cielo, no forma parte de una constelación reconocida, pero es una estrella destacada en la región de Boötes.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-arcturus.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Arcturus es una gigante roja, lo que significa que ha agotado su hidrógeno y se ha expandido."
+        },
+        {
+          "id": 2,
+          "dato": "Es una de las estrellas que se utilizan en la navegación, ya que su brillo la hace fácilmente visible desde la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "Tiene un color rojizo, lo que indica que es una estrella gigante de tipo espectral K, en contraste con el color blanco-amarillo del Sol."
+        },
+        {
+          "id": 4,
+          "dato": "Arcturus es parte de la población de estrellas cercanas a nuestro sistema solar y ha sido objeto de estudio en la astronomía para comprender mejor la evolución estelar."
+        },
+        {
+          "id": 5,
+          "dato": "Se estima que Arcturus tiene una edad de alrededor de 7 mil millones de años, lo que la hace considerablemente más antigua que el Sol."
+        }
+      ],
+      "id": 12
+    },
+    {
+      "nombre": "Vega",
+      "parrafoPrincial": "Vega es una estrella brillante en el cielo nocturno y forma parte de la constelación Lyra. Es una estrella de tipo espectral A0V y es una de las estrellas más prominentes en el hemisferio norte.",
+      "parrafoSecundario": "Vega es conocida por su brillo y su apariencia blanca azulada. La distancia entre Vega y la Tierra es de aproximadamente 25 años luz, lo que la convierte en una de las estrellas cercanas a nuestro sistema solar. Vega es una estrella importante en la constelación Lyra, que representa un arpa en la mitología griega.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-vega.png",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "El nombre 'Vega' proviene del árabe 'Wāqi', que significa 'el que cae'. Este nombre se relaciona con su posición en la constelación Lyra, que se asocia con la lira, un instrumento musical."
+        },
+        {
+          "id": 2,
+          "dato": "La luz de Vega que vemos en la Tierra viaja desde la estrella durante unas décadas, por lo que observamos la luz que dejó Vega hace más de 20 años."
+        },
+        {
+          "id": 3,
+          "dato": "Es una estrella de tipo espectral A0V, lo que significa que es una estrella caliente y relativamente joven en términos astronómicos."
+        },
+        {
+          "id": 4,
+          "dato": "Vega ha sido objeto de estudio en la búsqueda de exoplanetas y sistemas planetarios en la Vía Láctea."
+        },
+        {
+          "id": 5,
+          "dato": "Vega es una de las estrellas más cercanas a la Tierra."
+        }
+      ],
+      "id": 13
+    },
+    {
+      "nombre": "Rigel",
+      "parrafoPrincial": "Rigel es una de las estrellas más brillantes y destacadas en el cielo nocturno y forma parte de la constelación de Orión. Es una estrella supergigante de tipo espectral B8Ia y es conocida por su brillo azul intenso y su prominencia en la constelación de Orión.",
+      "parrafoSecundario": "La distancia entre Rigel y la Tierra es de aproximadamente 860 años luz, lo que la convierte en una de las estrellas más lejanas a las que se puede observar a simple vista. Rigel es una de las estrellas más prominentes en la constelación de Orión, que es una de las constelaciones más reconocibles en el cielo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-rigel.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Rigel es una supergigante, lo que significa que es una de las estrellas más grandes y luminosas conocidas, a pesar de su lejanía."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Orión, Rigel representa la pierna izquierda del cazador en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Rigel que vemos en la Tierra viaja desde la estrella durante siglos, por lo que observamos la luz que dejó Rigel hace más de 800 años."
+        },
+        {
+          "id": 4,
+          "dato": "Rigel ha sido objeto de estudio en la astronomía para comprender mejor la evolución de las estrellas masivas y la formación de cúmulos estelares."
+        },
+        {
+          "id": 5,
+          "dato": "La estrella Rigel es un objetivo interesante para la búsqueda de exoplanetas y sistemas planetarios en su entorno."
+        }
+      ],
+      "id": 14
+    },
+    {
+      "nombre": "Betelgeuse",
+      "parrafoPrincial": "Betelgeuse es una estrella gigante roja que forma parte de la constelación de Orión. Es una de las estrellas más grandes y brillantes en el cielo nocturno y es conocida por su color rojizo.",
+      "parrafoSecundario": "Betelgeuse es una supergigante de tipo espectral M1-2Ia, lo que indica que está en una fase avanzada de su evolución estelar. La distancia entre Betelgeuse y la Tierra es de aproximadamente 642.5 años luz, lo que la convierte en una de las estrellas más lejanas a las que se puede observar a simple vista. Betelgeuse es una de las estrellas más prominentes en la constelación de Orión, que es una de las constelaciones más reconocibles en el cielo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-betelgeuse.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Betelgeuse es una de las estrellas más grandes conocidas, con un diámetro que es aproximadamente 1,000 veces el del Sol."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Orión, Betelgeuse representa el hombro izquierdo del cazador en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "Betelgeuse es una estrella variable, lo que significa que su brillo cambia con el tiempo. Su brillo varía en un rango de magnitud aparente de alrededor de 0.2 a 1.2."
+        },
+        {
+          "id": 4,
+          "dato": "Betelgeuse ha sido objeto de estudio en la astronomía para comprender mejor la evolución de las estrellas masivas y las etapas finales de su ciclo de vida."
+        },
+        {
+          "id": 5,
+          "dato": "En 2019, Betelgeuse atrajo la atención de los astrónomos debido a su inusual disminución de brillo, que llevó a especulaciones sobre su posible futura explosión como supernova."
+        }
+      ],
+      "id": 15
+    },
+    {
+      "nombre": "Polaris",
+      "parrafoPrincial": "Polaris es una estrella destacada que se encuentra muy cerca del polo norte celeste, lo que la convierte en la Estrella del Norte, un punto de referencia importante para la navegación y la orientación en el hemisferio norte.",
+      "parrafoSecundario": "Es una estrella de tipo espectral F7Ib, conocida por su brillo y su posición en el cielo nocturno. La distancia entre Polaris y la Tierra es de aproximadamente 433 años luz. Polaris es una de las estrellas más prominentes en la constelación de la Osa Menor y se encuentra en una posición que está cerca del polo norte celeste, lo que significa que parece permanecer relativamente fija en el cielo nocturno a medida que la Tierra gira.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-polaris.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Polaris es una estrella gigante amarilla, lo que significa que es una estrella grande y luminosa en una fase avanzada de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "Debido a su posición cercana al polo norte celeste, Polaris es utilizada como referencia en la navegación, ya que indica la dirección norte en el hemisferio norte."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Polaris que vemos en la Tierra viaja desde la estrella durante siglos, por lo que observamos la luz que dejó Polaris hace más de 400 años."
+        },
+        {
+          "id": 4,
+          "dato": "La distancia de Polaris a la Tierra es aproximadamente de 433 años luz, lo que la coloca a una distancia considerablemente mayor que muchas de las estrellas visibles a simple vista."
+        },
+        {
+          "id": 5,
+          "dato": "Polaris es parte de un sistema estelar múltiple y está acompañada por dos estrellas más tenues que son difíciles de observar a simple vista."
+        }
+      ],
+      "id": 16
+    },
+    {
+      "nombre": "Antares",
+      "parrafoPrincial": "Antares es una estrella gigante roja que se encuentra en la constelación de Escorpio. Es una de las estrellas más brillantes y notables en el cielo nocturno y es conocida por su color rojo intenso.",
+      "parrafoSecundario": "ntares es una supergigante de tipo espectral M1.5Iab-b, lo que indica que está en una fase avanzada de su evolución estelar. La distancia entre Antares y la Tierra es de aproximadamente 554 años luz. Antares es una de las estrellas más destacadas en la constelación de Escorpio, que representa un escorpión en la mitología griega y romana.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-antares.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "El nombre 'Antares' proviene del griego y significa 'opuesto a Ares', haciendo referencia a su color rojo y a la constelación de Ares (Marte)."
+        },
+        {
+          "id": 2,
+          "dato": "Antares es una de las estrellas más grandes conocidas, con un diámetro que es aproximadamente 680 veces el del Sol."
+        },
+        {
+          "id": 3,
+          "dato": "En la constelación de Escorpio, Antares representa el corazón del escorpión en la mitología asociada con la constelación."
+        },
+        {
+          "id": 4,
+          "dato": "La luz de Antares que vemos en la Tierra viaja desde la estrella durante siglos, por lo que observamos la luz que dejó Antares hace más de 500 años."
+        },
+        {
+          "id": 5,
+          "dato": "Antares se encuentra en una región interesante del cielo que forma parte de la constelación de Escorpión."
+        }
+      ],
+      "id": 17
+    },
+    {
+      "nombre": "Regulus",
+      "parrafoPrincial": "Regulus es una estrella brillante que se encuentra en la constelación de Leo. Es una estrella de tipo espectral B7V y es conocida por ser la estrella principal de la constelación Leo, el león.",
+      "parrafoSecundario": "Regulus es una de las estrellas más destacadas en el cielo nocturno. La distancia entre Regulus y la Tierra es de aproximadamente 77 años luz. Regulus es una estrella que forma parte de la constelación Leo, que representa un león en la mitología griega y romana.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-regulus.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Regulus es una estrella enana blanca-azulada."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Leo, Regulus representa el corazón del león en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Regulus que vemos en la Tierra viaja desde la estrella durante décadas, por lo que observamos la luz que dejó Regulus hace más de 70 años."
+        },
+        {
+          "id": 4,
+          "dato": "Regulus ha sido objeto de estudio en la astronomía para comprender mejor la formación y evolución de estrellas calientes y luminosas como esta."
+        },
+        {
+          "id": 5,
+          "dato": "Regulus es parte de un sistema estelar múltiple y está acompañada por al menos tres estrellas más pequeñas que son difíciles de observar a simple vista."
+        }
+      ],
+      "id": 18
+    },
+    {
+      "nombre": "Deneb",
+      "parrafoPrincial": "Deneb es una estrella brillante que forma parte de la constelación del Cisne. Es una estrella supergigante de tipo espectral A2Iae y es conocida por ser una de las estrellas más luminosas en el cielo nocturno.",
+      "parrafoSecundario": "Deneb es una de las estrellas más prominentes en la constelación del Cisne, que representa un cisne en la mitología griega y romana. La distancia entre Deneb y la Tierra es de aproximadamente 1,425 años luz. Deneb es una estrella destacada en la constelación del Cisne, que es parte de la constelación del Cinturón de Verano, una región destacada del cielo nocturno.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-deneb.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Deneb es una de las estrellas más luminosas conocidas, con una luminosidad que es aproximadamente 196,000 veces la del Sol."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación del Cisne, Deneb representa la cola del cisne en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "Observamos la luz que dejó Deneb hace más de 1,400 años."
+        },
+        {
+          "id": 4,
+          "dato": "Deneb ha sido objeto de estudio en la astronomía para comprender mejor la formación y evolución de las estrellas masivas y luminosas como esta."
+        },
+        {
+          "id": 5,
+          "dato": "La estrella Deneb es una de las características notables en el Cinturón de Verano, una región del cielo conocida por su riqueza estelar y objetos celestes interesantes."
+        }
+      ],
+      "id": 19
+    },
+    {
+      "nombre": "Altair",
+      "parrafoPrincial": "Altair es una estrella brillante que forma parte de la constelación del Águila. Es una estrella de tipo espectral A7V y es conocida por su brillo y su apariencia blanca.",
+      "parrafoSecundario": "Altair es una de las estrellas más destacadas en el cielo nocturno. La distancia entre Altair y la Tierra es de aproximadamente 16.7 años luz. Altair es una estrella importante en la constelación del Águila, que representa un águila en la mitología griega y romana.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-altair.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Altair es una estrella enana blanca-azulada, lo que indica que es una estrella caliente y luminosa en una fase temprana de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación del Águila, Altair representa el ojo del águila en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "Su nombre proviene del árabe 'al-nasr al-ta'ir', que significa 'el águila en vuelo'."
+        },
+        {
+          "id": 4,
+          "dato": "Altair ha sido objeto de estudio en la astronomía para comprender mejor las estrellas de tipo espectral A y su evolución estelar."
+        },
+        {
+          "id": 5,
+          "dato": "Altair es una de las tres estrellas notables en el llamado Triángulo de Verano, un asterismo en el cielo nocturno."
+        }
+      ],
+      "id": 20
+    },
+    {
+      "nombre": "Spica",
+      "parrafoPrincial": "Spica es una estrella brillante que se encuentra en la constelación de Virgo. Es una estrella binaria, lo que significa que forma un sistema estelar doble con una compañera.",
+      "parrafoSecundario": "Spica es una de las estrellas más destacadas en el cielo nocturno y es conocida por su brillo y su apariencia azulada. La distancia entre Spica y la Tierra es de aproximadamente 260 años luz. Spica es una estrella importante en la constelación de Virgo, que representa a la diosa virgen de la mitología griega y romana.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-spica.png",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Spica es una estrella binaria compuesta por dos estrellas, Spica A y Spica B, que orbitan entre sí en un sistema estelar doble."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Virgo, Spica representa la espiga de trigo que la diosa Virgo lleva en sus manos en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "Observamos la luz que dejó Spica hace más de 200 años."
+        },
+        {
+          "id": 4,
+          "dato": "Spica ha sido objeto de estudio en la astronomía para comprender mejor las estrellas binarias y su evolución estelar conjunta."
+        },
+        {
+          "id": 5,
+          "dato": "Spica es una de las estrellas notables en el cielo nocturno y se utiliza a menudo como referencia para localizar otras estrellas y objetos celestes."
+        }
+      ],
+      "id": 21
+    },
+    {
+      "nombre": "Proxima centauri",
+      "parrafoPrincial": "Proxima Centauri es una enana roja que forma parte del sistema estelar Alfa Centauri, el sistema más cercano a nuestro sistema solar, ubicado a aproximadamente 4.24 años luz de distancia en la constelación de Centaurus.",
+      "parrafoSecundario": "Es la estrella más cercana conocida a nuestro sistema solar y es una de las estrellas más destacadas en el cielo nocturno debido a su proximidad. Proxima Centauri es una enana roja de tipo espectral M5V, lo que significa que es una estrella pequeña, tenue y relativamente fría en comparación con el Sol. Su proximidad la convierte en un objetivo importante para la exploración espacial y la búsqueda de exoplanetas en la zona habitable.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-proximaCentauri.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Proxima Centauri es parte del sistema estelar Alfa Centauri, que consta de tres estrellas principales: Alfa Centauri A, Alfa Centauri B y Proxima Centauri."
+        },
+        {
+          "id": 2,
+          "dato": "Debido a su proximidad, Proxima Centauri es utilizada como objetivo en la búsqueda de exoplanetas en la zona habitable que puedan albergar vida."
+        },
+        {
+          "id": 3,
+          "dato": "En 2016, se descubrió un exoplaneta en órbita alrededor de Proxima Centauri, llamado Proxima Centauri b, que es un objetivo interesante en la búsqueda de vida fuera de la Tierra."
+        },
+        {
+          "id": 4,
+          "dato": "La posibilidad de futuras misiones espaciales a Proxima Centauri ha sido objeto de estudio y debate en la exploración interestelar."
+        },
+        {
+          "id": 5,
+          "dato": "La luz de Proxima Centauri que vemos en la Tierra viaja desde la estrella durante más de 4 años."
+        }
+      ],
+      "id": 22
+    },
+    {
+      "nombre": "Bellatrix",
+      "parrafoPrincial": "Bellatrix es una estrella brillante que se encuentra en la constelación de Orión. Es una estrella gigante azul de tipo espectral B2III y es conocida por su brillo y su prominencia en la constelación de Orión, que representa al cazador en la mitología griega y romana.",
+      "parrafoSecundario": "La distancia entre Bellatrix y la Tierra es de aproximadamente 250 años luz. Bellatrix es una de las estrellas más destacadas en la constelación de Orión, que es una de las constelaciones más reconocibles en el cielo nocturno.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-bellatrix.png",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Bellatrix es una estrella gigante azul, lo que significa que es una estrella grande y luminosa en una fase avanzada de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Orión, Bellatrix representa el hombro izquierdo del cazador en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Bellatrix que vemos en la Tierra viaja desde la estrella durante siglos, por lo que observamos la luz que dejó Bellatrix hace más de 200 años."
+        },
+        {
+          "id": 4,
+          "dato": "Bellatrix ha sido objeto de estudio en la astronomía para comprender mejor la evolución de las estrellas masivas y la formación de cúmulos estelares."
+        },
+        {
+          "id": 5,
+          "dato": "La estrella Bellatrix es uno de los puntos de referencia notables en la constelación de Orión, que es visible en el hemisferio norte durante el invierno."
+        }
+      ],
+      "id": 23
+    },
+    {
+      "nombre": "Aldebaran",
+      "parrafoPrincial": "Aldebarán es una estrella brillante que forma parte de la constelación de Tauro. Es una estrella gigante naranja de tipo espectral K5III y es conocida por su brillo y su prominencia en la constelación de Tauro, que representa al toro en la mitología griega y romana.",
+      "parrafoSecundario": "La distancia entre Aldebarán y la Tierra es de aproximadamente 65 años luz. Aldebarán es una de las estrellas más destacadas en la constelación de Tauro y es fácilmente reconocible por su color anaranjado y su posición cerca del cúmulo estelar Las Pléyades.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-aldebaran.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Aldebarán es una estrella gigante naranja, lo que significa que es una estrella grande y luminosa en una fase avanzada de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Tauro, Aldebarán representa el ojo del toro en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Aldebarán que vemos en la Tierra viaja desde la estrella durante décadas, por lo que observamos la luz que dejó Aldebarán hace más de 60 años."
+        },
+        {
+          "id": 4,
+          "dato": "Aldebarán ha sido objeto de estudio en la astronomía para comprender mejor la evolución de las estrellas gigantes y su influencia en el entorno circundante."
+        },
+        {
+          "id": 5,
+          "dato": "Aldebarán es una de las estrellas más notables en el cielo nocturno y se encuentra cerca del cúmulo estelar Las Pléyades, lo que la hace un objeto de interés en la observación astronómica."
+        }
+      ],
+      "id": 24
+    },
+    {
+      "nombre": "Fomalhaut",
+      "parrafoPrincial": "Fomalhaut es una estrella brillante que forma parte de la constelación de Piscis Austrinus, también conocida como el Pez Austral. Es una estrella de tipo espectral A3V y es conocida por su brillo y su prominencia en el cielo nocturno.",
+      "parrafoSecundario": "Fomalhaut es una de las estrellas más destacadas en la constelación de Piscis Austrinus. La distancia entre Fomalhaut y la Tierra es de aproximadamente 25 años luz. Fomalhaut es una estrella importante en la constelación de Piscis Austrinus, que representa un pez en la mitología griega.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-fomalhaut.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Fomalhaut es una estrella enana blanca-azulada, lo que significa que es una estrella caliente y luminosa en una fase temprana de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Piscis Austrinus, Fomalhaut representa la boca del pez en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Fomalhaut que vemos en la Tierra viaja desde la estrella durante décadas, por lo que observamos la luz que dejó Fomalhaut hace más de 20 años."
+        },
+        {
+          "id": 4,
+          "dato": "Fomalhaut ha sido objeto de estudio en la astronomía debido a la presencia de un disco de escombros en su entorno y la posible detección de un exoplaneta en órbita alrededor de la estrella."
+        },
+        {
+          "id": 5,
+          "dato": "Fomalhaut es una de las estrellas notables en el cielo nocturno y se utiliza a menudo como referencia en la observación astronómica y la navegación."
+        }
+      ],
+      "id": 25
+    },
+    {
+      "nombre": "Mirach",
+      "parrafoPrincial": "Mirach es una estrella brillante que forma parte de la constelación de Andrómeda. Es una estrella gigante roja de tipo espectral M0III y es conocida por su brillo y su posición destacada en el cielo nocturno.",
+      "parrafoSecundario": "Mirach es una de las estrellas más notables en la constelación de Andrómeda. La distancia entre Mirach y la Tierra es de aproximadamente 197 años luz. Mirach es una estrella importante en la constelación de Andrómeda, que representa a la princesa Andrómeda en la mitología griega.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-mirach.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Mirach es una estrella gigante roja, lo que significa que es una estrella grande y luminosa en una fase avanzada de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Andrómeda, Mirach representa el cinturón de la princesa en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La distancia de Mirach a la Tierra es aproximadamente 197 años luz."
+        },
+        {
+          "id": 4,
+          "dato": "Mirach ha sido objeto de estudio en la astronomía para comprender mejor la evolución de las estrellas gigantes y su influencia en el entorno galáctico."
+        },
+        {
+          "id": 5,
+          "dato": "En el futuro, Mirach continuará evolucionando hacia una fase más avanzada, eventualmente expulsando sus capas externas y convirtiéndose en una nebulosa planetaria."
+        }
+      ],
+      "id": 26
+    },
+    {
+      "nombre": "Hamal",
+      "parrafoPrincial": "Hamal es una estrella brillante que forma parte de la constelación de Aries. Es una estrella gigante naranja de tipo espectral K2III y es conocida por su brillo y su prominencia en la constelación de Aries, que representa un carnero en la mitología griega y romana.",
+      "parrafoSecundario": "La distancia entre Hamal y la Tierra es de aproximadamente 65 años luz. Hamal es una de las estrellas más destacadas en la constelación de Aries y es fácilmente reconocible por su color anaranjado y su posición en la cabeza del carnero en la constelación.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-hamal.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Hamal es una estrella gigante naranja, lo que significa que es una estrella grande y luminosa en una fase avanzada de su evolución estelar."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Aries, Hamal representa la cabeza del carnero en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Hamal que vemos en la Tierra viaja desde la estrella durante décadas, por lo que observamos la luz que dejó Hamal hace más de 60 años."
+        },
+        {
+          "id": 4,
+          "dato": "Hamal ha sido objeto de estudio en la astronomía para comprender mejor la evolución de las estrellas gigantes y su influencia en el entorno galáctico."
+        },
+        {
+          "id": 5,
+          "dato": "Hamal es una de las estrellas notables en el cielo nocturno y es utilizada en la observación astronómica como punto de referencia en la constelación de Aries."
+        }
+      ],
+      "id": 27
+    },
+    {
+      "nombre": "Capella",
+      "parrafoPrincial": "Capella es una estrella brillante que forma parte de la constelación de Auriga, el Cochero. Es un sistema estelar múltiple compuesto por cuatro estrellas principales, siendo Capella A y Capella B las más destacadas.",
+      "parrafoSecundario": "Capella es conocida por su brillo y su prominencia en el cielo nocturno. La distancia entre Capella y la Tierra es de aproximadamente 42.2 años luz. Capella es una de las estrellas más destacadas en la constelación de Auriga, que representa un cochero o conductor de una cuadriga en la mitología griega y romana.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-capella.jpg",
+      "categoria": "estrella",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Capella es un sistema estelar múltiple compuesto por dos pares de estrellas binarias, siendo Capella A y Capella B las más notables."
+        },
+        {
+          "id": 2,
+          "dato": "En la constelación de Auriga, Capella representa la cabra Amaltea que amamantó al dios Zeus en la mitología asociada con la constelación."
+        },
+        {
+          "id": 3,
+          "dato": "La luz de Capella que vemos en la Tierra viaja desde el sistema estelar durante décadas, por lo que observamos la luz que dejó Capella hace más de 40 años."
+        },
+        {
+          "id": 4,
+          "dato": "Capella ha sido objeto de estudio en la astronomía debido a su naturaleza de sistema estelar múltiple y su influencia en el campo de la investigación estelar."
+        },
+        {
+          "id": 5,
+          "dato": "El nombre 'Capella' proviene del latín y significa 'cabra pequeña'. En la constelación de Auriga, Capella se asocia con el 'Chivo o Cabra de Amaltea' en la mitología griega, que amamantó al dios Zeus."
+        }
+      ],
+      "id": 28
+    },
+    {
+      "nombre": "Galaxia del ojo negro",
+      "parrafoPrincial": "La Galaxia del Ojo Negro, también conocida como M64 o NGC 4826, es una galaxia espiral que se encuentra en la constelación Coma Berenices. Debe su nombre a la inusual característica de un anillo oscuro que rodea su núcleo brillante. Este anillo oscuro contrasta fuertemente con las regiones más brillantes de la galaxia.",
+      "parrafoSecundario": "M64 es parte del catálogo de Messier y fue descubierto por el astrónomo Edward Pigott en 1779. La galaxia se encuentra a una distancia de aproximadamente 17 millones de años luz de la Tierra. Es conocida por ser un ejemplo de una galaxia espiral con una estructura inusual, ya que su anillo oscuro es raro en comparación con otras galaxias espirales.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-ojoNegro.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "M64 es famosa por su anillo oscuro, que se cree que es el resultado de una interacción con una galaxia vecina."
+        },
+        {
+          "id": 2,
+          "dato": "Tiene una masa estimada de alrededor de mil millones de veces la masa de nuestro sol."
+        },
+        {
+          "id": 3,
+          "dato": "M64 es una galaxia activa con un núcleo luminoso y un agujero negro supermasivo en su centro."
+        },
+        {
+          "id": 4,
+          "dato": "Esta galaxia ha sido objeto de estudio en investigaciones relacionadas con la formación y evolución de galaxias espirales."
+        },
+        {
+          "id": 5,
+          "dato": "M64 es un objeto de interés tanto para astrónomos profesionales como para aficionados debido a su apariencia única."
+        }
+      ],
+      "id": 29
+    },
+    {
+      "nombre": "Galaxia del remolino",
+      "parrafoPrincial": "La Galaxia del Remolino, también conocida como M51 o NGC 5194, es una icónica galaxia espiral situada en la constelación de Canes Venatici. Es conocida por su hermosa estructura en espiral y por su interacción con una galaxia enana cercana, NGC 5195, que se encuentra cerca de su núcleo.",
+      "parrafoSecundario": "M51 es un ejemplo clásico de una galaxia espiral. Su estructura en espiral es el resultado de la rotación de sus brazos estelares alrededor de su núcleo central. La interacción gravitatoria con NGC 5195 ha causado ondas en los brazos espirales de M51, lo que la hace un objeto fascinante para su estudio.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-remolino.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Remolino es famosa por su espectacular estructura en espiral, que la convierte en un objeto de interés tanto para astrónomos profesionales como para aficionados."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra a una distancia aproximada de 23 millones de años luz de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "M51 es un sistema binario, ya que está acompañada por la galaxia enana NGC 5195."
+        },
+        {
+          "id": 4,
+          "dato": "Esta galaxia es un importante objeto de estudio en la investigación de la dinámica galáctica y la formación de estructuras en el universo."
+        },
+        {
+          "id": 5,
+          "dato": "Es un punto de referencia en la exploración del cielo nocturno y una de las imágenes más icónicas en la astronomía."
+        }
+      ],
+      "id": 30
+    },
+    {
+      "nombre": "Galaxia de Andromeda",
+      "parrafoPrincial": "La Galaxia de Andrómeda, también conocida como M31 o NGC 224, es la galaxia espiral más cercana a la Vía Láctea y es parte del Grupo Local de galaxias. Andrómeda es visible a simple vista en el cielo nocturno y es un objeto astronómico fascinante. Se encuentra a una distancia de aproximadamente 2,5 millones de años luz de la Tierra.",
+      "parrafoSecundario": "M31 es considerablemente más grande que la Vía Láctea y se estima que contiene alrededor de un billón de estrellas. Es una galaxia espiral con un núcleo brillante y brazos espirales prominentes. Se cree que Andrómeda y la Vía Láctea están en curso de colisión y se fusionarán en el futuro, formando una galaxia elíptica gigante.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-andromeda.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Andrómeda es la galaxia espiral más cercana a la Vía Láctea y es uno de los objetos más brillantes en el cielo nocturno."
+        },
+        {
+          "id": 2,
+          "dato": "Se cree que Andrómeda contiene alrededor de un billón de estrellas y es considerablemente más grande que la Vía Láctea."
+        },
+        {
+          "id": 3,
+          "dato": "La galaxia de Andrómeda es un objeto de estudio clave en la cosmología y la evolución de las galaxias."
+        },
+        {
+          "id": 4,
+          "dato": "Andrómeda y la Vía Láctea están en curso de colisión y se fusionarán en el futuro, formando una nueva galaxia elíptica gigante."
+        },
+        {
+          "id": 5,
+          "dato": "Es un objeto popular para la observación y la astrofotografía debido a su brillo y su proximidad a la Vía Láctea."
+        }
+      ],
+      "id": 31
+    },
+    {
+      "nombre": "Galaxia de triangulo",
+      "parrafoPrincial": "La Galaxia del Triángulo, también conocida como M33 o NGC 598, es otra galaxia espiral cercana al Grupo Local de galaxias. El Triángulo es visible en el cielo nocturno y es un objeto de gran interés en la astronomía.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 2,73 millones de años luz de la Tierra. M33 es una galaxia espiral con brazos espirales bien definidos y una estructura espiral abierta. Contiene una cantidad significativa de estrellas y es un objeto de estudio clave en la astronomía galáctica.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-triangulo.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Triángulo es una de las galaxias espirales más cercanas al Grupo Local de galaxias."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra a una distancia de aproximadamente 2,73 millones de años luz de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "M33 es una galaxia espiral con brazos espirales bien definidos y una estructura abierta."
+        },
+        {
+          "id": 4,
+          "dato": "Es un objeto de interés en la astronomía galáctica y un tema importante de investigación."
+        },
+        {
+          "id": 5,
+          "dato": "El Triángulo es visible en el cielo nocturno y es apreciado por astrónomos y entusiastas de la astronomía."
+        }
+      ],
+      "id": 32
+    },
+    {
+      "nombre": "Galaxia del sombrero",
+      "parrafoPrincial": "La Galaxia del Sombrero, también conocida como M104 o NGC 4594, es una galaxia espiral situada en la constelación de Virgo. Es famosa por su forma distintiva que se asemeja a un sombrero de copa. Se encuentra a una distancia de aproximadamente 29 millones de años luz de la Tierra.",
+      "parrafoSecundario": "La Galaxia del Sombrero es una galaxia espiral no barrada con un núcleo brillante y un disco prominente. Su forma inusual la hace un objeto de interés en la astronomía y la astrofotografía. La galaxia es parte del Cúmulo de Virgo y se encuentra en una región rica en galaxias.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-sombrero.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Sombrero es conocida por su forma distintiva que se asemeja a un sombrero de copa."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra a una distancia de aproximadamente 29 millones de años luz de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "Es parte del Cúmulo de Virgo, una agrupación de galaxias en el espacio profundo."
+        },
+        {
+          "id": 4,
+          "dato": "Es un objeto popular para la observación y la astrofotografía debido a su forma y su ubicación en un cúmulo galáctico."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Sombrero se llama así debido a su distintiva apariencia. Tiene un núcleo brillante y una banda de polvo oscura que rodea su bulbo central."
+        }
+      ],
+      "id": 33
+    },
+    {
+      "nombre": "Galaxia de centaurus a",
+      "parrafoPrincial": "La Galaxia de Centaurus A, también conocida como NGC 5128, es una galaxia elíptica con un núcleo activo ubicada en la constelación de Centauro. Es una galaxia peculiar y fascinante que se destaca por su núcleo activo y su forma elíptica.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 11 millones de años luz de la Tierra. NGC 5128 es una galaxia elíptica gigante que contiene un agujero negro supermasivo en su núcleo. Este agujero negro es una fuente importante de radiación de alta energía, lo que hace que esta galaxia sea de gran interés para los astrónomos y los científicos. La Galaxia de Centaurus A es una de las galaxias más cercanas con un núcleo activo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-centaurusA.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia de Centaurus A es una galaxia elíptica con un núcleo activo y un agujero negro supermasivo en su centro."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra a una distancia de aproximadamente 11 millones de años luz de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "Su núcleo activo la hace una fuente de radiación de alta energía y un objeto de estudio en astronomía."
+        },
+        {
+          "id": 4,
+          "dato": "Es una de las galaxias más cercanas con un núcleo activo y es una galaxia peculiar en la constelación de Centauro."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia de Centaurus A es un tema de investigación importante en el campo de la astrofísica y la cosmología."
+        }
+      ],
+      "id": 34
+    },
+    {
+      "nombre": "Galaxia de whirlpool",
+      "parrafoPrincial": "La Galaxia de Whirlpool, también conocida como M51 o NGC 5194, es una galaxia espiral situada en la constelación de Canes Venatici. Es famosa por su aspecto espiral bien definido y su interacción con una compañera, la galaxia enana NGC 5195.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 23 millones de años luz de la Tierra. M51 es conocida por su espectacular aspecto espiral y su relación cercana con la galaxia enana NGC 5195. La interacción gravitatoria entre estas dos galaxias ha causado perturbaciones en sus estructuras, incluyendo la formación de nuevas estrellas. La Galaxia de Whirlpool es un objetivo popular para observación y astrofotografía.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-whirlpool.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia de Whirlpool es conocida por su espectacular apariencia espiral bien definida."
+        },
+        {
+          "id": 2,
+          "dato": "Se cree que la interacción entre M51a y M51b continuará en el futuro, lo que podría llevar a cambios significativos en la estructura y evolución de ambas galaxias."
+        },
+        {
+          "id": 3,
+          "dato": "Interactúa gravitacionalmente con la galaxia enana NGC 5195, lo que ha causado perturbaciones en ambas galaxias."
+        },
+        {
+          "id": 4,
+          "dato": "La interacción ha desencadenado la formación de nuevas estrellas en M51 y NGC 5195."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia de Whirlpool es un objeto popular tanto para observación telescópica como para astrofotografía debido a su belleza y su relación con su compañera."
+        }
+      ],
+      "id": 35
+    },
+    {
+      "nombre": "Via lactea",
+      "parrafoPrincial": "La Vía Láctea es nuestra galaxia, un inmenso sistema estelar que contiene miles de millones de estrellas, planetas, gas y polvo. Es una galaxia espiral barrada que alberga al Sistema Solar y a la Tierra. La Vía Láctea es solo una de las miles de millones de galaxias en el universo observable.",
+      "parrafoSecundario": "Nuestra galaxia es una vasta colección de estrellas que se extiende a lo largo de unos 100,000 años luz. El Sistema Solar se encuentra en uno de los brazos espirales exteriores de la Vía Láctea, conocido como el Brazo de Orión. La galaxia contiene una región central abultada y un disco plano en espiral con brazos, donde se encuentran muchas estrellas jóvenes y cúmulos estelares.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-viaLactea.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Vía Láctea es la galaxia en la que se encuentra nuestro Sistema Solar, junto con miles de millones de estrellas y sistemas planetarios."
+        },
+        {
+          "id": 2,
+          "dato": "Tiene una masa estimada de alrededor de 100 mil millones de veces la masa de nuestro sol."
+        },
+        {
+          "id": 3,
+          "dato": "La Vía Láctea es una galaxia espiral barrada, lo que significa que tiene un núcleo central abultado y brazos en espiral que se extienden desde el núcleo."
+        },
+        {
+          "id": 4,
+          "dato": "Es uno de los objetos más impresionantes y estudiados en el cielo nocturno, y su observación ha sido fundamental para la astronomía."
+        },
+        {
+          "id": 5,
+          "dato": "La Vía Láctea contiene una amplia variedad de objetos celestes, incluyendo estrellas, planetas, cúmulos estelares, nebulosas y agujeros negros."
+        }
+      ],
+      "id": 36
+    },
+    {
+      "nombre": "Galaxia del triangulo del dragon",
+      "parrafoPrincial": "La Galaxia del Triángulo del Dragón, también conocida como M81 o NGC 3031, es una galaxia espiral situada en la constelación de la Osa Mayor. Es un objeto destacado en el estudio de galaxias espirales y su estructura interna.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 12 millones de años luz de la Tierra. M81 es conocida por su apariencia espiral bien definida y su núcleo brillante. Es una de las galaxias más brillantes en el cielo nocturno y es un objetivo clave para la investigación en astronomía. Los estudios de M81 han proporcionado información valiosa sobre la formación y evolución de las galaxias espirales.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-trianguloDeDragon.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Triángulo del Dragón es una galaxia espiral destacada en el estudio de galaxias espirales."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra a una distancia de aproximadamente 12 millones de años luz de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "M81 es conocida por su apariencia espiral bien definida y su núcleo brillante."
+        },
+        {
+          "id": 4,
+          "dato": "Se cree que M81 alberga un agujero negro supermasivo en su núcleo, que está emitiendo radiación en diferentes longitudes de onda. "
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Triángulo del Dragón es un objeto popular para la observación y el estudio debido a su brillo y su ubicación en la constelación de la Osa Mayor."
+        }
+      ],
+      "id": 37
+    },
+    {
+      "nombre": "Galaxia del molinete",
+      "parrafoPrincial": "La Galaxia del Molinete, también conocida como M101 o NGC 5457, es una galaxia espiral ubicada en la constelación de la Osa Mayor. Es una de las galaxias espirales más grandes y notables en el cielo nocturno.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 21 millones de años luz de la Tierra. M101 es conocida por su estructura espiral bien definida y sus brillantes brazos espirales. Es un objeto destacado en la astronomía y la astrofotografía. La galaxia contiene una gran cantidad de estrellas y es un tema importante de estudio en la astronomía galáctica.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-molinete.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Molinete es una de las galaxias espirales más grandes y notables en el cielo nocturno."
+        },
+        {
+          "id": 2,
+          "dato": "Debido a la abundancia de gas y polvo en sus brazos espirales, M101 es un sitio activo de formación estelar. Esto significa que en sus brazos se están creando nuevas estrellas en este momento."
+        },
+        {
+          "id": 3,
+          "dato": "M101 es conocida por su estructura espiral bien definida y sus brillantes brazos espirales."
+        },
+        {
+          "id": 4,
+          "dato": "Es un objeto popular para la observación telescópica y la astrofotografía debido a su belleza y prominencia en el cielo."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Molinete es un tema importante de investigación en la astronomía galáctica y ha contribuido al conocimiento de las galaxias espirales."
+        }
+      ],
+      "id": 38
+    },
+    {
+      "nombre": "Galaxia del trenzado",
+      "parrafoPrincial": "La Galaxia del Trenzado, también conocida como NGC 4565, es una galaxia espiral situada en la constelación de Coma Berenices. Es conocida por su perfil delgado y alargado, lo que la hace parecer una galaxia en forma de aguja en el cielo nocturno.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 30 millones de años luz de la Tierra. NGC 4565 es una galaxia espiral que se encuentra de lado desde nuestra perspectiva en la Tierra. Su forma alargada se debe a su orientación, y esta característica la hace un objeto de interés en la astronomía. La galaxia contiene una población diversa de estrellas y es parte del Grupo de M94 en la constelación de Coma Berenices.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-trenzado.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Trenzado es conocida por ser una de las galaxias más prominentes vistas de lado en el cielo nocturno."
+        },
+        {
+          "id": 2,
+          "dato": "NGC 4565 es una de las galaxias espirales más grandes conocidas y se extiende a lo largo de aproximadamente 100,000 años luz."
+        },
+        {
+          "id": 3,
+          "dato": "Se cree que la galaxia alberga un agujero negro supermasivo en su centro, aunque no ha sido observado directamente."
+        },
+        {
+          "id": 4,
+          "dato": "El polvo y el gas interestelar en NGC 4565 contribuyen a la formación de nuevas estrellas en sus brazos espirales."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Trenzado es un objetivo popular para la astrofotografía debido a su forma única y su ubicación en el espacio profundo."
+        }
+      ],
+      "id": 39
+    },
+    {
+      "nombre": "Galaxia del cigarro del sur",
+      "parrafoPrincial": "La Galaxia del Cigarro del Sur, también conocida como NGC 6744, es una galaxia espiral ubicada en la constelación del Pavo. Es una de las galaxias espirales cercanas más destacadas en el cielo nocturno.",
+      "parrafoSecundario": " Se encuentra a una distancia de aproximadamente 30 millones de años luz de la Tierra. NGC 6744 es conocida por su estructura espiral bien definida y su semejanza con nuestra propia Vía Láctea. Es un objeto de interés en la astronomía y la astrofotografía. La galaxia alberga una población diversa de estrellas y es un tema importante de estudio en la astronomía galáctica.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-cigarroDelSur.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Cigarro del Sur es conocida por su semejanza con la Vía Láctea en términos de estructura espiral."
+        },
+        {
+          "id": 2,
+          "dato": "Lo que le da su nombre de 'Galaxia del Cigarro del Sur' es su apariencia peculiar. Esta galaxia espiral se ve de lado desde la perspectiva de la Tierra, lo que le da una forma alargada y recuerda a un cigarro."
+        },
+        {
+          "id": 3,
+          "dato": "NGC 6744 es uno de los objetos más prominentes en el cielo nocturno y un objetivo popular para la observación y la astrofotografía."
+        },
+        {
+          "id": 4,
+          "dato": "La galaxia alberga una gran diversidad de estrellas y sistemas estelares, lo que la convierte en un tema importante de estudio en la astronomía galáctica."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Cigarro del Sur es una de las galaxias espirales cercanas que nos brinda información valiosa sobre la estructura y evolución de este tipo de galaxias."
+        }
+      ],
+      "id": 40
+    },
+    {
+      "nombre": "Galaxia del girasol",
+      "parrafoPrincial": "La Galaxia del Girasol, también conocida como M63 o NGC 5055, es una galaxia espiral ubicada en la constelación de Canes Venatici. Debe su nombre a su característica apariencia espiral que se asemeja a un girasol.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 37 millones de años luz de la Tierra. M63 es conocida por su patrón espiral bien definido y sus brillantes brazos espirales. Es un objeto popular en la observación telescópica y la astrofotografía. La galaxia alberga una población diversa de estrellas y es parte del Grupo de M51 en la constelación de Canes Venatici.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-girasol.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Girasol debe su nombre a su parecido con un girasol debido a su patrón espiral bien definido."
+        },
+        {
+          "id": 2,
+          "dato": "Fue descubierta por el astrónomo francés Pierre Méchain en 1779 y posteriormente incluida en el catálogo de Charles Messier como el objeto Messier 63."
+        },
+        {
+          "id": 3,
+          "dato": "M63 es un objeto muy popular para la observación astronómica debido a su belleza y su forma distintiva."
+        },
+        {
+          "id": 4,
+          "dato": "La galaxia alberga una diversa población de estrellas y sistemas estelares, lo que la convierte en un tema interesante de estudio en la astronomía galáctica."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Girasol es parte del Grupo de M51, que incluye la famosa Galaxia del Remolino (M51) y otras galaxias cercanas."
+        }
+      ],
+      "id": 41
+    },
+    {
+      "nombre": "Galaxia de sombrero de copa",
+      "parrafoPrincial": "La Galaxia de Sombrero de Copa, también conocida como Messier 104 (M104) o NGC 4594, es una galaxia situada en la constelación de Virgo. Esta galaxia espiral es famosa por su forma distintiva que se asemeja a un sombrero de copa, de ahí su nombre.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 29 millones de años luz de la Tierra. La Galaxia de Sombrero de Copa es un objeto de interés en la astronomía debido a su apariencia inusual y su ubicación en el cúmulo de Virgo. Esta galaxia contiene un núcleo brillante y un disco prominente. Se cree que alberga un agujero negro supermasivo en su centro, que es una fuente importante de radiación de alta energía. La interacción gravitatoria entre las estrellas y el gas en la Galaxia de Sombrero de Copa ha llevado a la formación de nuevas estrellas en sus brazos espirales.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-sombreroDeCopa.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia de Sombrero de Copa es conocida por su forma inusual que se asemeja a un sombrero de copa."
+        },
+        {
+          "id": 2,
+          "dato": "Se cree que la Galaxia del Sombrero ha experimentado una colisión con otra galaxia en el pasado."
+        },
+        {
+          "id": 3,
+          "dato": "La galaxia es famosa por su núcleo brillante y un disco prominente."
+        },
+        {
+          "id": 4,
+          "dato": "Se cree que alberga un agujero negro supermasivo en su centro, que es una fuente de radiación de alta energía."
+        },
+        {
+          "id": 5,
+          "dato": "La interacción gravitatoria en la Galaxia de Sombrero de Copa ha provocado la formación de nuevas estrellas en sus brazos espirales."
+        }
+      ],
+      "id": 42
+    },
+    {
+      "nombre": "Galaxia de andromeda enana",
+      "parrafoPrincial": "La Galaxia de Andrómeda enana, también conocida como M32, es una galaxia enana elíptica que forma parte del Grupo Local, un conjunto de galaxias que incluye la Vía Láctea y la Galaxia de Andrómeda (M31).",
+      "parrafoSecundario": "M32 orbita en torno a M31 y se encuentra a una distancia de aproximadamente 2,5 millones de años luz de la Tierra. M32 es una galaxia elíptica de tamaño relativamente pequeño en comparación con la Galaxia de Andrómeda. A pesar de su modesto tamaño, es un objeto importante en la astronomía debido a su proximidad a M31. La interacción gravitatoria entre M32 y M31 ha influido en la estructura y evolución de ambas galaxias.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-andromedaEnana.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia de Andrómeda enana es una galaxia enana elíptica que orbita en torno a la Galaxia de Andrómeda (M31)."
+        },
+        {
+          "id": 2,
+          "dato": "M32 tiene un núcleo brillante y compacto en su centro, que está formado principalmente por estrellas más antiguas."
+        },
+        {
+          "id": 3,
+          "dato": "A pesar de su tamaño modesto, M32 es un objeto de gran interés en la astronomía debido a su relación con M31."
+        },
+        {
+          "id": 4,
+          "dato": "La interacción gravitatoria entre M32 y M31 ha influido en la evolución y estructura de ambas galaxias."
+        },
+        {
+          "id": 5,
+          "dato": "M32 es uno de los miembros del Grupo Local, un conjunto de galaxias que incluye la Vía Láctea y otras galaxias cercanas."
+        }
+      ],
+      "id": 43
+    },
+    {
+      "nombre": "Galaxia de la rueda del carro",
+      "parrafoPrincial": "La Galaxia de la Rueda del Carro, también conocida como M101 o NGC 5457, es una galaxia espiral ubicada en la constelación de la Osa Mayor. Es un objeto destacado en el estudio de la formación estelar y la evolución de las galaxias. Se encuentra a una distancia de aproximadamente 21 millones de años luz de la Tierra.",
+      "parrafoSecundario": "M101 es conocida por su estructura espiral bien definida y sus brillantes brazos espirales. Es un objeto de gran interés en la astronomía, particularmente en el estudio de la formación estelar. La galaxia alberga una gran cantidad de regiones de formación estelar donde nacen nuevas estrellas. Esta actividad estelar la convierte en un laboratorio natural para investigar el proceso de creación de estrellas.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-ruedaDelCarro.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia de la Rueda del Carro es un objeto destacado en el estudio de la formación estelar y la evolución de las galaxias."
+        },
+        {
+          "id": 2,
+          "dato": "Es una de las galaxias espirales más grandes conocidas y tiene un diámetro de aproximadamente 170,000 años luz, lo que la hace considerablemente más grande que la Vía Láctea."
+        },
+        {
+          "id": 3,
+          "dato": "M101 es conocida por sus brillantes brazos espirales y su estructura bien definida."
+        },
+        {
+          "id": 4,
+          "dato": "La galaxia alberga una gran cantidad de regiones de formación estelar donde nacen nuevas estrellas, lo que la convierte en un laboratorio natural para el estudio de la formación estelar."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia de la Rueda del Carro es un objetivo importante para la investigación astronómica debido a su relevancia en la formación estelar."
+        }
+      ],
+      "id": 44
+    },
+    {
+      "nombre": "Galaxia del collar",
+      "parrafoPrincial": "La Galaxia del Collar, también conocida como NGC 4565, es una galaxia espiral situada en la constelación Coma Berenices, a una distancia de aproximadamente 30 millones de años luz de la Tierra.",
+      "parrafoSecundario": "NGC 4565 se destaca por su perfil extremadamente delgado y su forma de 'collar' debido a su vista desde un ángulo casi de canto. Esto la hace parecer una línea fina en el cielo, y se asemeja a una aguja de costura. La galaxia contiene mucho polvo interestelar y numerosas estrellas. El polvo interestelar en la galaxia es visible en forma de oscurecimiento de la luz de las estrellas que se encuentra detrás de él. Es una galaxia muy conocida y estudiada por los astrónomos debido a su impresionante perfil y su notable forma.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-collar.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "NGC 4565 es una galaxia espiral no barrada de tipo Sa con un bulbo central prominente y brazos espirales bien definidos."
+        },
+        {
+          "id": 2,
+          "dato": "NGC 4565 es parte de un pequeño grupo de galaxias que incluye a NGC 4562 y NGC 4567. Estas galaxias son satélites de la Galaxia de la Ballena."
+        },
+        {
+          "id": 3,
+          "dato": "NGC 4565 se encuentra en la constelación Coma Berenices y es conocida por su perfil delgado y su forma de 'collar'."
+        },
+        {
+          "id": 4,
+          "dato": "Al igual que muchas galaxias espirales, se cree que NGC 4565 tiene un halo extendido de materia oscura que rodea su región visible."
+        },
+        {
+          "id": 5,
+          "dato": "NGC 4565 es una galaxia popular para la observación telescópica debido a su perfil único en el cielo nocturno."
+        }
+      ],
+      "id": 45
+    },
+    {
+      "nombre": "Galaxia del girasol enana",
+      "parrafoPrincial": "La Galaxia del Girasol enana, también conocida como NGC 4244, es una galaxia enana que se encuentra en la constelación de la Virgen. A pesar de su tamaño modesto, esta galaxia es conocida por su perfil delgado y alargado, lo que le da una apariencia similar a un girasol.",
+      "parrafoSecundario": "Se encuentra a una distancia de aproximadamente 13 millones de años luz de la Tierra. NGC 4244 es un objeto destacado para la observación astronómica debido a su forma inusual. Aunque es una galaxia enana, su perfil alargado la hace destacar en el cielo nocturno. Los estudios de esta galaxia han proporcionado información valiosa sobre la formación y evolución de galaxias de este tipo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-girasolEnana.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Girasol enana (NGC 4244) es una galaxia enana conocida por su perfil delgado y alargado."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra a una distancia de aproximadamente 13 millones de años luz de la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "A pesar de su tamaño modesto, es un objeto destacado en la observación astronómica debido a su forma inusual."
+        },
+        {
+          "id": 4,
+          "dato": "Los estudios de NGC 4244 han proporcionado información valiosa sobre la formación y evolución de galaxias enanas similares."
+        },
+        {
+          "id": 5,
+          "dato": "NGC 4244 es un ejemplo de la diversidad de galaxias que existen en el universo y es un tema importante de investigación en la astronomía galáctica."
+        }
+      ],
+      "id": 46
+    },
+    {
+      "nombre": "Galaxia del triangulo enana",
+      "parrafoPrincial": "La Galaxia del Triángulo enana es una galaxia enana que forma parte del Grupo Local de galaxias y es satélite de la Galaxia del Triángulo, también conocida como M33 o NGC 598. Se encuentra en la constelación del Triángulo y es uno de los objetos celestes más destacados en el cielo nocturno.",
+      "parrafoSecundario": "A pesar de su tamaño modesto en comparación con la Galaxia del Triángulo, la Galaxia del Triángulo enana es un objeto importante en la astronomía debido a su relación cercana con M33. Su interacción gravitatoria con la galaxia principal ha influido en su estructura y evolución a lo largo de las eras cósmicas.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-trianguloEnana.jpg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia del Triángulo enana es una galaxia enana que orbita en torno a la Galaxia del Triángulo (M33)."
+        },
+        {
+          "id": 2,
+          "dato": "Se encuentra en la constelación del Triángulo y es visible en el cielo nocturno."
+        },
+        {
+          "id": 3,
+          "dato": "A pesar de su tamaño modesto, es un objeto de interés en la astronomía debido a su relación cercana con M33."
+        },
+        {
+          "id": 4,
+          "dato": "La interacción gravitatoria con la Galaxia del Triángulo ha influido en su estructura y evolución a lo largo del tiempo cósmico."
+        },
+        {
+          "id": 5,
+          "dato": "La Galaxia del Triángulo enana es uno de los miembros del Grupo Local de galaxias."
+        }
+      ],
+      "id": 47
+    },
+    {
+      "nombre": "Galaxia de la osa mayor",
+      "parrafoPrincial": "La Galaxia de la Osa Mayor incluye dos objetos celestes notables: Messier 108 (M108) y Messier 97 (M97). M108 es una galaxia espiral situada en la constelación de la Osa Mayor, mientras que M97 es una nebulosa planetaria cercana.",
+      "parrafoSecundario": "M108 es una galaxia espiral con un núcleo brillante y brazos espirales prominentes. Por otro lado, M97 es una nebulosa planetaria que se caracteriza por su aspecto redondeado y su apariencia similar a un ojo. Ambos objetos son visibles en el cielo nocturno y son populares entre los observadores y astrónomos aficionados. Ambos objetos son parte del catálogo Messier, compilado por el astrónomo Charles Messier.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/galaxias/galaxia-osaMayor.jpeg",
+      "categoria": "galaxia",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La Galaxia de la Osa Mayor incluye tanto una galaxia espiral (M108) como una nebulosa planetaria (M97)."
+        },
+        {
+          "id": 2,
+          "dato": "M108 es una galaxia espiral con un núcleo brillante y brazos espirales prominentes."
+        },
+        {
+          "id": 3,
+          "dato": "M97 es una nebulosa planetaria que se caracteriza por su apariencia redondeada y su apariencia similar a un ojo."
+        },
+        {
+          "id": 4,
+          "dato": "Ambos objetos son visibles en el cielo nocturno y son populares entre los observadores y astrónomos aficionados."
+        },
+        {
+          "id": 5,
+          "dato": "La inclusión de M108 y M97 en el catálogo Messier los convierte en objetos de interés histórico en la astronomía."
+        }
+      ],
+      "id": 48
+    },
+    {
+      "nombre": "Pluton",
+      "parrafoPrincial": "Es un planeta enano que se encuentra en el cinturón de Kuiper. Es un área llena de objetos helados y otros planetas enanos en el borde de nuestro sistema solar. Debido a que Plutón es el objeto más grande conocido en esta región, algunos lo llaman 'Rey del Cinturón de Kuiper'.",
+      "parrafoSecundario": "El resto de los planetas viajan alrededor del sol en círculos casi perfectos. ¡Pero no Plutón! Hace un recorrido elíptico, con el Sol situado lejos de su centro. Aún más, su recorrido se inclina bastante del plano ordenado en el cual el resto de los planetas giran alrededor del Sol. (Mercurio también tiene una órbita un poco elíptica, pero nunca tanto como la de Plutón).",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-pluton.png",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Posee una variedad de características geológicas interesantes, incluyendo llanuras heladas, montañas, etc."
+        },
+        {
+          "id": 2,
+          "dato": "Plutón tiene cinco lunas conocidas: Caronte, Hidra, Nix, Estigia y Kerberos."
+        },
+        {
+          "id": 3,
+          "dato": "Su atmósfera, compuesta principalmente de nitrógeno, se congela y colapsa durante su órbita lejana alrededor del Sol."
+        },
+        {
+          "id": 4,
+          "dato": "Fue descubierto por el astrónomo Clyde Tombaugh el 18 de febrero de 1930."
+        },
+        {
+          "id": 5,
+          "dato": "La órbita de Plutón varía significativamente en distancia al Sol a lo largo de su órbita elíptica."
+        }
+      ],
+      "id": 49
+    },
+    {
+      "nombre": "Ceres",
+      "parrafoPrincial": "Ceres es el objeto más grande en el cinturón de asteroides, una región del sistema solar entre Marte y Júpiter. Aunque es un asteroide, Ceres tiene características que lo hacen único y se le ha clasificado como un planeta enano.",
+      "parrafoSecundario": " Fue descubierto en 1801 por Giuseppe Piazzi y es el objeto más grande y masivo en el cinturón de asteroides. Ceres es un mundo enano con una superficie cubierta de cráteres y una capa de hielo en su interior. También se cree que podría tener agua líquida bajo su superficie, lo que lo convierte en un lugar de interés para la búsqueda de vida extraterrestre. La misión Dawn de la NASA estudió Ceres de cerca y proporcionó datos fascinantes sobre este objeto.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-ceres.jpg",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Ceres es el objeto más grande en el cinturón de asteroides, con un diámetro de aproximadamente 940 kilómetros."
+        },
+        {
+          "id": 2,
+          "dato": "Fue nombrado en honor a la diosa romana de la agricultura y la maternidad."
+        },
+        {
+          "id": 3,
+          "dato": "Ceres ha sido visitado por la misión Dawn de la NASA."
+        },
+        {
+          "id": 4,
+          "dato": "Se cree que Ceres podría contener depósitos de agua en forma de hielo y que podría albergar un océano subsuperficial."
+        },
+        {
+          "id": 5,
+          "dato": "Como Ceres es esférico se diferencia de la mayoría de los otros miembros del cinturón de asteroides."
+        }
+      ],
+      "id": 50
+    },
+    {
+      "nombre": "Exoplaneta",
+      "parrafoPrincial": "Un exoplaneta es un planeta que se encuentra fuera de nuestro sistema solar, orbitando alrededor de una estrella diferente a nuestro Sol. Estos planetas son una parte fundamental de la investigación astronómica y la búsqueda de vida en el universo.",
+      "parrafoSecundario": "La detección y estudio de exoplanetas se ha convertido en un campo de estudio importante en la astronomía. Los métodos para descubrir exoplanetas incluyen la observación de tránsitos (cuando un exoplaneta pasa frente a su estrella anfitriona), la velocidad radial (midiendo pequeñas oscilaciones en la velocidad de una estrella causadas por la gravedad del planeta) y la interferometría. La existencia de miles de exoplanetas ha ampliado nuestra comprensión de la diversidad y distribución de planetas en el universo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-exoplaneta.png",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Los exoplanetas pueden variar en tamaño, composición y órbita."
+        },
+        {
+          "id": 2,
+          "dato": "El primer exoplaneta fue descubierto en 1992, y desde entonces, se han identificado miles de exoplanetas."
+        },
+        {
+          "id": 3,
+          "dato": "La detección de exoplanetas se realiza a través de métodos como la observación de tránsitos, la velocidad radial y la interferometría."
+        },
+        {
+          "id": 4,
+          "dato": "Los exoplanetas han ampliado nuestra comprensión de la diversidad y distribución de planetas en el universo."
+        },
+        {
+          "id": 5,
+          "dato": "La búsqueda de exoplanetas es esencial para buscar signos de vida fuera de la Tierra."
+        }
+      ],
+      "id": 51
+    },
+    {
+      "nombre": "Asteroide",
+      "parrafoPrincial": "Los asteroides son objetos rocosos o metálicos que orbitan alrededor del Sol en el sistema solar. Son remanentes de la formación del sistema solar hace miles de millones de años y se encuentran principalmente en el cinturón de asteroides.",
+      "parrafoSecundario": "Los asteroides varían en tamaño, desde pequeñas rocas hasta cuerpos más grandes de cientos de kilómetros de diámetro. Estos objetos han sido objeto de estudio y exploración en la astronomía, y algunos de ellos pueden acercarse peligrosamente a la Tierra, lo que ha llevado a la investigación en la defensa planetaria.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-asteroide.jpg",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Los asteroides se componen principalmente de minerales y metales."
+        },
+        {
+          "id": 2,
+          "dato": "El cinturón de asteroides, situado entre Marte y Júpiter, alberga una gran cantidad de estos objetos."
+        },
+        {
+          "id": 3,
+          "dato": "A pesar de su número y variabilidad, los asteroides no son planetas debido a su tamaño y forma irregular."
+        },
+        {
+          "id": 4,
+          "dato": "Los impactos de asteroides en la Tierra en el pasado han tenido un impacto significativo en la evolución de nuestro planeta."
+        },
+        {
+          "id": 5,
+          "dato": "La exploración y estudio de los asteroides es importante para desarrollar estrategias de defensa planetaria en caso de amenazas de impacto con la Tierra."
+        }
+      ],
+      "id": 52
+    },
+    {
+      "nombre": "Cometa",
+      "parrafoPrincial": "Los cometas son objetos celestes compuestos principalmente de hielo, polvo y roca que orbitan alrededor del Sol en el sistema solar. A diferencia de los asteroides, los cometas tienen órbitas altamente elípticas que los llevan desde las regiones más lejanas del sistema solar hacia el Sol.",
+      "parrafoSecundario": "Los cometas han sido observados durante miles de años y a menudo se asocian con eventos históricos y culturales. Son objetos fascinantes que proporcionan información sobre la composición del sistema solar temprano.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-cometa.png",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Los cometas se componen principalmente de hielo de agua, dióxido de carbono y otros compuestos volátiles, así como partículas de polvo y pequeñas rocas."
+        },
+        {
+          "id": 2,
+          "dato": "Cuando un cometa se acerca al Sol, la radiación solar calienta su núcleo, liberando gas y polvo en forma de una coma brillante y una cola que apunta lejos del Sol debido a la presión del viento solar."
+        },
+        {
+          "id": 3,
+          "dato": "Los cometas pueden tener órbitas muy largas y pueden tardar muchos años, e incluso siglos, en completar una sola órbita alrededor del Sol."
+        },
+        {
+          "id": 4,
+          "dato": "La observación de cometas ha sido importante en la historia de la astronomía."
+        },
+        {
+          "id": 5,
+          "dato": "Las misiones espaciales, como la sonda Rosetta de la ESA, han estudiado de cerca los cometas, lo que ha proporcionado valiosa información."
+        }
+      ],
+      "id": 53
+    },
+    {
+      "nombre": "Meteorito",
+      "parrafoPrincial": "Los meteoritos son fragmentos de asteroides, cometas o incluso de la Luna o Marte que han sobrevivido a su paso a través de la atmósfera de la Tierra y han impactado la superficie terrestre.",
+      "parrafoSecundario": "Se dividen en tres tipos principales: meteoritos de hierro, meteoritos de piedra y meteoritos de hierro-piedra. Los meteoritos son valiosas muestras de material extraterrestre que proporcionan información sobre la composición del sistema solar y la evolución de los cuerpos celestes. También han sido objeto de estudio en la ciencia de la astrogeología.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-meteorito.jpg",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Los meteoritos de hierro están compuestos principalmente de hierro y níquel, y a menudo tienen una superficie brillante y metálica."
+        },
+        {
+          "id": 2,
+          "dato": "Los meteoritos de piedra están hechos principalmente de minerales y roca, y son los más comunes entre los meteoritos que impactan la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "Los meteoritos de hierro-piedra contienen tanto material metálico como rocoso, y son una combinación de los dos tipos anteriores."
+        },
+        {
+          "id": 4,
+          "dato": "El estudio de meteoritos ha proporcionado información sobre la formación de planetas y asteroides."
+        },
+        {
+          "id": 5,
+          "dato": "Algunos meteoritos son famosos por contener inclusiones ricas en carbono."
+        }
+      ],
+      "id": 54
+    },
+    {
+      "nombre": "Nebulosa",
+      "parrafoPrincial": "Las nebulosas son vastas nubes de gas y polvo en el espacio interestelar. Pueden ser el resultado de la explosión de una estrella en una supernova o el lugar de formación de nuevas estrellas. Las nebulosas son objetos celestes de gran belleza y misterio.",
+      "parrafoSecundario": "Las nebulosas son áreas ricas en gas y polvo que pueden extenderse por miles de años luz en el espacio. Se iluminan a menudo por la radiación de estrellas cercanas o por procesos de formación estelar en su interior.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-nebulosa.jpg",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Existen diferentes tipos de nebulosas, incluyendo nebulosas de emisión, nebulosas de reflexión y nebulosas oscuras."
+        },
+        {
+          "id": 2,
+          "dato": "Las nebulosas de emisión son nubes de gas brillante que emiten luz propia, a menudo debido a la radiación de estrellas jóvenes y calientes en su interior."
+        },
+        {
+          "id": 3,
+          "dato": "Las nebulosas de reflexión son nubes de polvo que reflejan la luz de estrellas cercanas."
+        },
+        {
+          "id": 4,
+          "dato": "Las nebulosas oscuras son regiones opacas de polvo que bloquean la luz de fondo."
+        },
+        {
+          "id": 5,
+          "dato": "Las nebulosas desempeñan un papel fundamental en la formación de estrellas y planetas."
+        }
+      ],
+      "id": 55
+    },
+    {
+      "nombre": "Agujero negro",
+      "parrafoPrincial": "Los agujeros negros son regiones del espacio donde la gravedad es tan intensa que nada, ni siquiera la luz, puede escapar de su atracción. Están formados por la implosión de estrellas masivas que han agotado su combustible nuclear y colapsado.",
+      "parrafoSecundario": "Los agujeros negros son objetos extraordinarios que desafían nuestras leyes de la física convencional. Su estudio ha revolucionado la astronomía y la comprensión del cosmos.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-agujeroNegro.jpg",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "La gravedad en un agujero negro es tan intensa que crea una singularidad en su centro, una región de densidad infinita donde las leyes de la física."
+        },
+        {
+          "id": 2,
+          "dato": "Existen diferentes tipos de agujeros negros, incluyendo agujeros negros estelares, agujeros negros supermasivos y agujeros negros primordiales."
+        },
+        {
+          "id": 3,
+          "dato": "Los agujeros negros supermasivos, que se encuentran en el centro de muchas galaxias, pueden tener masas equivalentes a millones o incluso miles de millones de veces la masa del Sol."
+        },
+        {
+          "id": 4,
+          "dato": "La teoría de la relatividad general de Einstein proporciona la base para nuestra comprensión de la gravedad en la proximidad de los agujeros negros."
+        },
+        {
+          "id": 5,
+          "dato": "La detección de ondas gravitacionales, como las generadas por la fusión de agujeros negros, ha abierto una nueva era en la observación de estos objetos."
+        }
+      ],
+      "id": 56
+    },
+    {
+      "nombre": "Quasares",
+      "parrafoPrincial": "Los quasares, abreviatura de 'fuentes cuasi estelares radio', son objetos astronómicos extremadamente luminosos y distantes que se encuentran en el centro de las galaxias. Emiten grandes cantidades de energía en forma de radiación electromagnética.",
+      "parrafoSecundario": "Los quasares son conocidos por ser algunos de los objetos más brillantes y lejanos en el universo observable. Son fuentes de estudio clave en la cosmología y la astronomía.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-quasares.png",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Los quasares son núcleos galácticos activos que contienen agujeros negros supermasivos en su centro."
+        },
+        {
+          "id": 2,
+          "dato": "La luz de los quasares ha viajado miles de millones de años luz antes de llegar a la Tierra."
+        },
+        {
+          "id": 3,
+          "dato": "A pesar de su lejanía, los quasares son visibles en el espectro electromagnético."
+        },
+        {
+          "id": 4,
+          "dato": "Se caracterizan por su espectro de líneas de emisión altamente desplazadas hacia el rojo (redshift), lo que indica su gran distancia y expansión del universo."
+        },
+        {
+          "id": 5,
+          "dato": "La energía generada por los quasares proviene de la materia que cae hacia el agujero negro supermasivo central y se calienta a temperaturas extremas."
+        }
+      ],
+      "id": 57
+    },
+    {
+      "nombre": "Materia oscura",
+      "parrafoPrincial": "La materia oscura es una forma de materia que no emite, absorbe ni refleja luz electromagnética, lo que la hace invisible a los detectores convencionales. A pesar de su falta de interacción electromagnética, la materia oscura ejerce una influencia gravitatoria significativa en el universo.",
+      "parrafoSecundario": "La materia oscura es uno de los misterios más intrigantes de la cosmología y la astrofísica. Su existencia se deduce a partir de observaciones de la dinámica galáctica y la expansión del universo.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-materiaOscura.jpeg",
+      "categoria": "otros",
+      "datos": [
+        {
+          "id": 1,
+          "dato": "Aunque no interactúa con la luz, la materia oscura se manifiesta a través de su influencia gravitatoria."
+        },
+        {
+          "id": 2,
+          "dato": "Se estima que la materia oscura constituye aproximadamente el 27% de la masa y energía del universo, mientras que la materia bariónica representa solo alrededor del 5%."
+        },
+        {
+          "id": 3,
+          "dato": "La naturaleza precisa de la materia oscura aún no se comprende completamente."
+        },
+        {
+          "id": 4,
+          "dato": "La materia oscura desempeña un papel fundamental en la formación y evolución de las estructuras en el universo."
+        },
+        {
+          "id": 5,
+          "dato": "Su existencia es una de las principales razones para la formulación de la teoría de la materia oscura, que busca explicar los efectos gravitatorios observados."
+        }
+      ],
+      "id": 58
+    }
+  ],
+  "sistemaSolar": [
+    {
+      "dato": "El planeta enano Eris es más masivo que Plutón y fue un factor en la reclasificación de Plutón.",
+      "id": 1
+    },
+    {
+      "dato": "El Sol es una estrella de tipo espectral G2V.",
+      "id": 2
+    },
+    {
+      "dato": "El diámetro del Sol es aproximadamente 109 veces mayor que el de la Tierra.",
+      "id": 3
+    },
+    {
+      "dato": "Mercurio es el planeta más cercano al Sol y tiene temperaturas extremas.",
+      "id": 4
+    },
+    {
+      "dato": "Venus es similar en tamaño y composición a la Tierra pero tiene un efecto invernadero descontrolado.",
+      "id": 5
+    },
+    {
+      "dato": "El cinturón de asteroides se encuentra entre Marte y Júpiter.",
+      "id": 6
+    },
+    {
+      "dato": "Júpiter es el planeta más grande del sistema solar.",
+      "id": 7
+    },
+    {
+      "dato": "Saturno es famoso por sus impresionantes anillos de partículas de hielo y roca.",
+      "id": 8
+    },
+    {
+      "dato": "Urano gira de lado, con su eje de rotación inclinado casi 90 grados.",
+      "id": 9
+    },
+    {
+      "dato": "Neptuno tiene los vientos más rápidos en el sistema solar.",
+      "id": 10
+    },
+    {
+      "dato": "Plutón fue reclasificado como un planeta enano en 2006.",
+      "id": 11
+    },
+    {
+      "dato": "La misión Voyager ha salido del sistema solar.",
+      "id": 12
+    },
+    {
+      "dato": "La sonda Cassini estudió Saturno y sus lunas.",
+      "id": 13
+    },
+    {
+      "dato": "La Luna de la Tierra, la Luna, es el quinto satélite más grande en el sistema solar.",
+      "id": 14
+    },
+    {
+      "dato": "Ganímedes, una luna de Júpiter, es la luna más grande en el sistema solar.",
+      "id": 15
+    },
+    {
+      "dato": "La atmósfera de Marte es muy delgada y no puede retener calor, lo que resulta en temperaturas frías.",
+      "id": 16
+    },
+    {
+      "dato": "Titán, una luna de Saturno, tiene una atmósfera densa y líquidos en su superficie, incluyendo lagos de metano.",
+      "id": 17
+    },
+    {
+      "dato": "Los anillos de Urano son muy delgados y oscuros.",
+      "id": 18
+    },
+    {
+      "dato": "El cometa Halley visita el sistema solar interior aproximadamente cada 76 años.",
+      "id": 19
+    },
+    {
+      "dato": "Ceres es el objeto más grande en el cinturón de asteroides.",
+      "id": 20
+    },
+    {
+      "dato": "El telescopio espacial Hubble ha proporcionado imágenes impresionantes del sistema solar y el universo.",
+      "id": 21
+    },
+    {
+      "dato": "La Estación Espacial Internacional (EEI) orbita alrededor de la Tierra y permite la investigación en microgravedad.",
+      "id": 22
+    },
+    {
+      "dato": "La misión New Horizons de la NASA exploró Plutón y su luna Caronte en 2015.",
+      "id": 23
+    },
+    {
+      "dato": "Las sondas espaciales Voyager llevan mensajes y música de la Tierra para posibles encuentros extraterrestres.",
+      "id": 24
+    },
+    {
+      "dato": "Las llamaradas solares son explosiones de radiación en la superficie del Sol.",
+      "id": 25
+    },
+    {
+      "dato": "La misión InSight de la NASA estudia el interior de Marte.",
+      "id": 26
+    },
+    {
+      "dato": "El cinturón de asteroides es rico en minerales y metales.",
+      "id": 27
+    },
+    {
+      "dato": "El rover Curiosity de la NASA ha estado explorando la superficie de Marte desde 2012.",
+      "id": 28
+    },
+    {
+      "dato": "Plutón tiene una órbita altamente elíptica que lo lleva desde el cinturón de Kuiper al sistema solar interior.",
+      "id": 29
+    },
+    {
+      "dato": "La luna Europa de Júpiter tiene un océano subsuperficial de agua líquida y es un objetivo para futuras misiones de exploración.",
+      "id": 30
+    },
+    {
+      "dato": "Los cometas están formados por polvo, hielo y rocas y desarrollan colas cuando se acercan al Sol.",
+      "id": 31
+    },
+    {
+      "dato": "Mimas, una luna de Saturno, tiene un gran cráter que lo hace parecer el 'Ojo de Sauron'.",
+      "id": 32
+    },
+    {
+      "dato": "El cinturón de asteroides es el hogar de Ceres, Vesta y muchos otros asteroides.",
+      "id": 33
+    },
+    {
+      "dato": "La sonda Parker Solar Probe de la NASA estudia la corona solar de cerca.",
+      "id": 34
+    },
+    {
+      "dato": "El cinturón de Kuiper es una región más allá de Neptuno que contiene objetos helados, incluyendo Plutón.",
+      "id": 35
+    },
+    {
+      "dato": "La Nebulosa del Águila es una región de formación estelar visible desde la Tierra.",
+      "id": 36
+    },
+    {
+      "dato": "Plutón tiene cinco lunas conocidas, la más grande de las cuales es Caronte.",
+      "id": 37
+    },
+    {
+      "dato": "La misión Rosetta de la ESA aterrizó en el cometa 67P/Churyumov-Gerasimenko en 2014.",
+      "id": 38
+    },
+    {
+      "dato": "La Tierra es el único planeta conocido en el sistema solar con vida.",
+      "id": 39
+    },
+    {
+      "dato": "La sonda Messenger de la NASA estudió Mercurio de cerca.",
+      "id": 40
+    },
+    {
+      "dato": "Io, una luna de Júpiter, tiene volcanes activos de lava.",
+      "id": 41
+    },
+    {
+      "dato": "La misión Dawn de la NASA estudió los asteroides Vesta y Ceres.",
+      "id": 42
+    },
+    {
+      "dato": "Los meteoritos son fragmentos de asteroides o cometas que caen en la Tierra.",
+      "id": 43
+    },
+    {
+      "dato": "Las manchas solares son áreas más frías en la superficie del Sol causadas por campos magnéticos.",
+      "id": 44
+    },
+    {
+      "dato": "Las misiones Viking de la NASA fueron las primeras en aterrizar en Marte en 1976.",
+      "id": 45
+    },
+    {
+      "dato": "El asteroide más grande, Ceres, se considera un planeta enano.",
+      "id": 46
+    },
+    {
+      "dato": "Tritón, una luna de Neptuno, es uno de los pocos objetos en el sistema solar que orbita en dirección retrógrada.",
+      "id": 47
+    },
+    {
+      "dato": "La Luna de Marte, Fobos, es tan pequeña que podría ser eventualmente destruida por las fuerzas de marea.",
+      "id": 48
+    },
+    {
+      "dato": "La sonda Juno estudia Júpiter y busca comprender su formación y evolución.",
+      "id": 49
+    },
+    {
+      "dato": "El Sol representa aproximadamente el 99.86% de la masa del sistema solar.",
+      "id": 50
+    }
+  ],
+  "quiz": [
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "ayuda": "Tiene un sistema de anillos aunque no son tan llamativos como los de Saturno.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta1-13.jpg",
+      "respuesta": "Júpiter",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Venus"
+        },
+        {
+          "id": 2,
+          "opcion": "Marte"
+        },
+        {
+          "id": 3,
+          "opcion": "Saturno"
+        },
+        {
+          "id": 4,
+          "opcion": "Júpiter"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "pregunta": "¿Qué es un cometa?",
+      "ayuda": "Se asemeja a una 'bola de nieve sucia' en su apariencia.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-cometa.png",
+      "respuesta": "Un cuerpo celeste con una cola de gas y polvo",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Un planeta enano"
+        },
+        {
+          "id": 2,
+          "opcion": "Un asteroide"
+        },
+        {
+          "id": 3,
+          "opcion": "Un cuerpo celeste con una cola de gas y polvo"
+        },
+        {
+          "id": 4,
+          "opcion": "Una estrella fugaz"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "pregunta": "¿Cuál es la estrella central de nuestro sistema solar?",
+      "ayuda": "Es una esfera brillante que nos proporciona luz y calor.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/estrellas/estrella-deneb.jpg",
+      "respuesta": "El Sol",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Alfa Centauri"
+        },
+        {
+          "id": 2,
+          "opcion": "El Sol"
+        },
+        {
+          "id": 3,
+          "opcion": "Rigel"
+        },
+        {
+          "id": 4,
+          "opcion": "Sirio"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "pregunta": "¿Cuál es la luna más grande de Júpiter?",
+      "ayuda": "La luna más grande de Júpiter es conocida como la 'luna galileana' más grande.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta4.jpg",
+      "respuesta": "Ganímedes",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Ganímedes"
+        },
+        {
+          "id": 2,
+          "opcion": "Deimos"
+        },
+        {
+          "id": 3,
+          "opcion": "Titán"
+        },
+        {
+          "id": 4,
+          "opcion": "Encélado"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "pregunta": "¿Cuál es el planeta que se muestra en la imagen?",
+      "ayuda": "Es el planeta más brillante en nuestro cielo nocturno después de la Luna.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-venus.jpg",
+      "respuesta": "Venus",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Júpiter"
+        },
+        {
+          "id": 2,
+          "opcion": "Tierra"
+        },
+        {
+          "id": 3,
+          "opcion": "Mercurio"
+        },
+        {
+          "id": 4,
+          "opcion": "Venus"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "pregunta": "¿Cuál es el planeta enano que está más allá de Plutón?",
+      "ayuda": "Fue descubierto en 2005 y es parte de la región del cinturón de Kuiper.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta6.jpg",
+      "respuesta": "Eris",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Ceres"
+        },
+        {
+          "id": 2,
+          "opcion": "Eris"
+        },
+        {
+          "id": 3,
+          "opcion": "Haumea"
+        },
+        {
+          "id": 4,
+          "opcion": "Makemake"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "pregunta": "¿Cuál es el período orbital de la Tierra alrededor del Sol?",
+      "ayuda": "A menudo se realiza un ajuste adicional para tener en cuenta los años bisiestos.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta7.jpg",
+      "respuesta": "365 días",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "24 horas"
+        },
+        {
+          "id": 2,
+          "opcion": "30 días"
+        },
+        {
+          "id": 3,
+          "opcion": "100 días"
+        },
+        {
+          "id": 4,
+          "opcion": "365 días"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "pregunta": "¿Qué es un eclipse solar?",
+      "ayuda": "Un eclipse solar es un evento celestial que involucra la alineación de objetos en el espacio.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta8.jpg",
+      "respuesta": "Cuando la Luna se interpone entre la Tierra y el Sol",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Cuando la Luna se interpone entre la Tierra y el Sol"
+        },
+        {
+          "id": 2,
+          "opcion": "Cuando la Tierra se interpone entre la Luna y el Sol"
+        },
+        {
+          "id": 3,
+          "opcion": "Cuando la Tierra se encuentra entre Marte y el Sol"
+        },
+        {
+          "id": 4,
+          "opcion": "Cuando Júpiter se alinea con el Sol y la Tierra"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "pregunta": "¿Qué es un planeta enano?",
+      "ayuda": "Un planeta enano tiene una característica importante que lo diferencia de los planetas convencionales.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-pluton.png",
+      "respuesta": "Un cuerpo celeste que no es un planeta pero es más grande que un asteroide",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Un planeta más pequeño que la Tierra"
+        },
+        {
+          "id": 2,
+          "opcion": "Un cuerpo celeste que no es un planeta pero es más grande que un asteroide"
+        },
+        {
+          "id": 3,
+          "opcion": "Un planeta que no orbita alrededor de una estrella"
+        },
+        {
+          "id": 4,
+          "opcion": "Un planeta que es muy frío"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "pregunta": "¿Qué es un agujero negro?",
+      "ayuda": "Este se forma cuando una estrella masiva colapsa bajo su propia gravedad.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/otros/otros-agujeroNegro.jpg",
+      "respuesta": "Una región del espacio con una gravedad tan intensa que nada puede escapar, ni siquiera la luz",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Una región del espacio donde no hay gravedad"
+        },
+        {
+          "id": 2,
+          "opcion": "Un planeta sin luz"
+        },
+        {
+          "id": 3,
+          "opcion": "Una estrella que ha explotado"
+        },
+        {
+          "id": 4,
+          "opcion": "Una región del espacio con una gravedad tan intensa que nada puede escapar, ni siquiera la luz"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más frío del sistema solar?",
+      "ayuda": "Este planeta gigante es conocido por su coloración distintiva y su inclinación extrema.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta11.jpeg",
+      "respuesta": "Urano",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Venus"
+        },
+        {
+          "id": 2,
+          "opcion": "Urano"
+        },
+        {
+          "id": 3,
+          "opcion": "Neptuno"
+        },
+        {
+          "id": 4,
+          "opcion": "Mercurio"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del robot explorador de Marte?",
+      "ayuda": "Este robot tiene un nombre relacionado con su deseo de explorar y descubrir cosas nuevas en Marte.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta12.jpg",
+      "respuesta": "Curiosity",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "R2-D2"
+        },
+        {
+          "id": 2,
+          "opcion": "ExoMars"
+        },
+        {
+          "id": 3,
+          "opcion": "Curiosity"
+        },
+        {
+          "id": 4,
+          "opcion": "Wall-E"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "pregunta": "¿Cuál es el planeta que tiene el día más largo en el sistema solar?",
+      "ayuda": "El planeta con el día más largo en el sistema solar es también el planeta más grande.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta1-13.jpg",
+      "respuesta": "Júpiter",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Venus"
+        },
+        {
+          "id": 2,
+          "opcion": "Júpiter"
+        },
+        {
+          "id": 3,
+          "opcion": "Mercurio"
+        },
+        {
+          "id": 4,
+          "opcion": "Neptuno"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "pregunta": "¿Qué es un tránsito planetario?",
+      "ayuda": "Es un fenómeno astronómico que involucra la alineación de dos cuerpos celestes en el espacio.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/juegoQuiz/quiz-pregunta14.jpg",
+      "respuesta": "Cuando un planeta pasa por delante del Sol desde la perspectiva de la Tierra",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Cuando un planeta se alinea entre la Tierra y el Sol"
+        },
+        {
+          "id": 2,
+          "opcion": "Cuando un planeta pasa por delante del Sol desde la perspectiva de la Tierra"
+        },
+        {
+          "id": 3,
+          "opcion": "Cuando dos planetas chocan en el espacio"
+        },
+        {
+          "id": 4,
+          "opcion": "Cuando un planeta gira sobre su propio eje"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "pregunta": "Cuál es el planeta que se muestra en la imagen?",
+      "ayuda": "Es uno de los gigantes gaseosos.",
+      "imagen": "https://raw.githubusercontent.com/gelpilar/appEducativaEspacial/main/recursos/planetas/planeta-jupiter.jpg",
+      "respuesta": "Júpiter",
+      "distractores": [
+        {
+          "id": 1,
+          "opcion": "Júpiter"
+        },
+        {
+          "id": 2,
+          "opcion": "Venus"
+        },
+        {
+          "id": 3,
+          "opcion": "Tierra"
+        },
+        {
+          "id": 4,
+          "opcion": "Marte"
+        }
+      ],
+      "id": 15
+    }
+  ]
+}
